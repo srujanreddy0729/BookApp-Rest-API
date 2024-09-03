@@ -1,8 +1,8 @@
 Project Description: Book Application with Spring Boot
 Overview: This project is a robust book management application built using Spring Boot. It leverages RESTful APIs to provide a seamless and scalable way to manage book data. The application is powered by Spring Data JPA for efficient data persistence and uses H2 as an in-memory database for development and testing purposes.
 
-Key Features:
 
+Key Features:
 Spring Boot Framework: Utilizes Spring Boot to create a standalone, production-grade application with minimal setup.
 RESTful APIs: Implements a set of RESTful endpoints to perform CRUD (Create, Read, Update, Delete) operations on book entities. These APIs allow for efficient interaction with the application from various client applications or tools.
 Spring Data JPA: Integrates Spring Data JPA to simplify data access and manipulation, enabling easy interaction with the database through a repository pattern.
@@ -23,7 +23,9 @@ Benefits:
 Scalability: The use of RESTful APIs allows for easy expansion and integration with other systems.
 Ease of Use: Spring Boot simplifies application setup and configuration, while Spring Data JPA streamlines data handling.
 Rapid Development: H2’s in-memory capabilities speed up development and testing cycles.
-This book application project serves as a practical demonstration of modern Java development practices, showcasing the power and flexibility of Spring Boot, Spring Data JPA, and RESTful web services.
+
+This book application project serves as a practical demonstration of modern Java development practices, showcasing the power and flexibility of Spring Boot, 
+Spring Data JPA, and RESTful web services.
 
 
 
